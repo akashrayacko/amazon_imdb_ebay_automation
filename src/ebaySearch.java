@@ -9,7 +9,7 @@ public class ebaySearch {
     WebDriver driver;
     public void launchbrowser() {
 
-        // Instantiate a SafariDriver class.
+        // Instantiate a SafariDriver class.fnghug
          driver = new SafariDriver();
         // Launch Website
         driver.get("https://www.ebay.com/");
